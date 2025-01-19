@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import logging
-from remove import BackgroundRemove
+from utils.remove import BackgroundRemove
 
 
 if __name__ == '__main__':
