@@ -15,6 +15,11 @@ python main.py
 - Python 3.6 or higher
 - rembg
 
+## Install the dependencies:
+```sh
+pip install -r requirements.md
+```
+
 ## Installation
 ```bash
 # create environment
